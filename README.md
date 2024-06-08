@@ -14,9 +14,7 @@ By using the data, you agree to the following rules:
 
 XXXX
 
-### Data Sources for the Factors
-
-## List of ents
+## List of events
 
 We provide the list of events in the file `list_pd_events.csv` located in the folder `data`. Each event contains the following information:
 

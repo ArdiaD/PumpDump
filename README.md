@@ -22,4 +22,4 @@ We provide the list of events in the file `list_pd_events.csv` located in the fo
 
 ## References
 
-Ardia D., Bluteau, K., 2024. Twitter and Cryptocurrency Pump-and-Dumps. https://doi.org/10.2139/ssrn.4703467
+Ardia D., Bluteau, K., 2024. Twitter and cryptocurrency pump-and-dumps. https://doi.org/10.2139/ssrn.4703467

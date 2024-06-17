@@ -1,4 +1,4 @@
-#### 2024-06-08 
+#### 2024-06-18 
 
 ## Overview
 
@@ -7,7 +7,7 @@ This README file provides information about the list of cryptocurrency pump-and-
 By using the data, you agree to the following rules:
 
 - You must cite the paper in working papers and published papers that use the data.
-- You must place the [DOI](https://doi.org/10.5281/zenodo.10459612) of this data repository in a footnote to help others find it.
+- You must place the [DOI](https://doi.org/10.5281/zenodo.12019080) of this data repository in a footnote to help others find it.
 - You assume all risk for the use of the code.
 
 ## Data Availability and Provenance Statements

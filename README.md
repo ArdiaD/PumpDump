@@ -2,7 +2,7 @@
 
 ## Overview
 
-This README file provides information about the list of cryptocurrency pump-and-dump events used in Ardia and Bluteau (2024), **Twitter and cryptocurrency pump-and-dumps**. [https://doi.org/10.2139/ssrn.4703467](https://doi.org/10.2139/ssrn.4703467)
+This README file provides information about the list of cryptocurrency pump-and-dump events used in Ardia and Bluteau (2024), **Twitter and cryptocurrency pump-and-dumps**, International Review of Financial Analysis, 95, 103479. [https://doi.org/10.1016/j.irfa.2024.103479](https://doi.org/10.1016/j.irfa.2024.103479)
 
 By using the data, you agree to the following rules:
 
@@ -26,4 +26,4 @@ We provide the list of events in the file `list_pd_events.csv` located in the fo
 
 ## References
 
-Ardia D., Bluteau, K., 2024. Twitter and cryptocurrency pump-and-dumps. https://doi.org/10.2139/ssrn.4703467
+Ardia D., Bluteau, K., 2024. Twitter and cryptocurrency pump-and-dumps. International Review of Financial Analysis, 95, 103479. [https://doi.org/10.1016/j.irfa.2024.103479](https://doi.org/10.1016/j.irfa.2024.103479)
